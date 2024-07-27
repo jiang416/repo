@@ -1,2 +1,5 @@
 2.log
 1.log
+test/
+.DS_Store
+.gitignore.swp
